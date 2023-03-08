@@ -1,2 +1,3 @@
 #!/bin/bash
 mv betty /tmp/my_first_directory/
+ls /tmp/my_first_directory
