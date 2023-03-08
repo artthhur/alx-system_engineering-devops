@@ -1,0 +1,2 @@
+#!/bash/alx
+cd "$oldpwd"
